@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/yrohanizadegan/Desktop/SDE project/pseudo_uniform_generator/cmake-build-debug",
+  "command": "/usr/bin/cc   -Wall -pg -g   -std=gnu99 -o CMakeFiles/pseudo_uniform_generator.dir/main.c.o   -c \"/home/yrohanizadegan/Desktop/SDE project/pseudo_uniform_generator/main.c\"",
+  "file": "/home/yrohanizadegan/Desktop/SDE project/pseudo_uniform_generator/main.c"
+},
+{
+  "directory": "/home/yrohanizadegan/Desktop/SDE project/pseudo_uniform_generator/cmake-build-debug",
+  "command": "/usr/bin/cc   -Wall -pg -g   -std=gnu99 -o CMakeFiles/pseudo_uniform_generator.dir/sample_mean_calc.c.o   -c \"/home/yrohanizadegan/Desktop/SDE project/pseudo_uniform_generator/sample_mean_calc.c\"",
+  "file": "/home/yrohanizadegan/Desktop/SDE project/pseudo_uniform_generator/sample_mean_calc.c"
+},
+{
+  "directory": "/home/yrohanizadegan/Desktop/SDE project/pseudo_uniform_generator/cmake-build-debug",
+  "command": "/usr/bin/cc   -Wall -pg -g   -std=gnu99 -o CMakeFiles/pseudo_uniform_generator.dir/PRNG_uniform.c.o   -c \"/home/yrohanizadegan/Desktop/SDE project/pseudo_uniform_generator/PRNG_uniform.c\"",
+  "file": "/home/yrohanizadegan/Desktop/SDE project/pseudo_uniform_generator/PRNG_uniform.c"
+},
+{
+  "directory": "/home/yrohanizadegan/Desktop/SDE project/pseudo_uniform_generator/cmake-build-debug",
+  "command": "/usr/bin/cc   -Wall -pg -g   -std=gnu99 -o CMakeFiles/pseudo_uniform_generator.dir/histogram_generator.c.o   -c \"/home/yrohanizadegan/Desktop/SDE project/pseudo_uniform_generator/histogram_generator.c\"",
+  "file": "/home/yrohanizadegan/Desktop/SDE project/pseudo_uniform_generator/histogram_generator.c"
+},
+{
+  "directory": "/home/yrohanizadegan/Desktop/SDE project/pseudo_uniform_generator/cmake-build-debug",
+  "command": "/usr/bin/cc   -Wall -pg -g   -std=gnu99 -o CMakeFiles/pseudo_uniform_generator.dir/sort_compare.c.o   -c \"/home/yrohanizadegan/Desktop/SDE project/pseudo_uniform_generator/sort_compare.c\"",
+  "file": "/home/yrohanizadegan/Desktop/SDE project/pseudo_uniform_generator/sort_compare.c"
+},
+{
+  "directory": "/home/yrohanizadegan/Desktop/SDE project/pseudo_uniform_generator/cmake-build-debug",
+  "command": "/usr/bin/cc   -Wall -pg -g   -std=gnu99 -o CMakeFiles/pseudo_uniform_generator.dir/sample_variance_calc.c.o   -c \"/home/yrohanizadegan/Desktop/SDE project/pseudo_uniform_generator/sample_variance_calc.c\"",
+  "file": "/home/yrohanizadegan/Desktop/SDE project/pseudo_uniform_generator/sample_variance_calc.c"
+}
+]

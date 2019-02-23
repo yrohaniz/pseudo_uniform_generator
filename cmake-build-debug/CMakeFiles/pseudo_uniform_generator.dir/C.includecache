@@ -1,0 +1,50 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yrohanizadegan/Desktop/SDE project/pseudo_uniform_generator/PRNG_uniform.c
+stdlib.h
+-
+stdio.h
+-
+UniPRNG.h
+/home/yrohanizadegan/Desktop/SDE project/pseudo_uniform_generator/UniPRNG.h
+
+/home/yrohanizadegan/Desktop/SDE project/pseudo_uniform_generator/UniPRNG.h
+
+/home/yrohanizadegan/Desktop/SDE project/pseudo_uniform_generator/histogram_generator.c
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+UniPRNG.h
+/home/yrohanizadegan/Desktop/SDE project/pseudo_uniform_generator/UniPRNG.h
+
+/home/yrohanizadegan/Desktop/SDE project/pseudo_uniform_generator/main.c
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+UniPRNG.h
+/home/yrohanizadegan/Desktop/SDE project/pseudo_uniform_generator/UniPRNG.h
+
+/home/yrohanizadegan/Desktop/SDE project/pseudo_uniform_generator/sample_mean_calc.c
+UniPRNG.h
+/home/yrohanizadegan/Desktop/SDE project/pseudo_uniform_generator/UniPRNG.h
+
+/home/yrohanizadegan/Desktop/SDE project/pseudo_uniform_generator/sample_variance_calc.c
+UniPRNG.h
+/home/yrohanizadegan/Desktop/SDE project/pseudo_uniform_generator/UniPRNG.h
+
+/home/yrohanizadegan/Desktop/SDE project/pseudo_uniform_generator/sort_compare.c
+UniPRNG.h
+/home/yrohanizadegan/Desktop/SDE project/pseudo_uniform_generator/UniPRNG.h
+
